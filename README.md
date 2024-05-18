@@ -2,7 +2,7 @@
 # Cabinet Dentaire Dentics
 
 Ce projet conciste à realiser un site Web d'un cabinet dentaire, en utilisant HTML et CSS pour repondre au besion des 
-utilisateur (patient, client ou autre ), conçu pour offrir aux patients une expérience conviviale,prise de rendez vous et informative en ligne.
+utilisateur (patient OU autre), conçu pour offrir aux patients une expérience conviviale,prise de rendez vous et informative en ligne. L'objectif est de reproduire la maquette de façon identitique.
 
 ## Fonctionnement
 
